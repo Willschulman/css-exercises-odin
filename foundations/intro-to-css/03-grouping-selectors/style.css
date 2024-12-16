@@ -1,0 +1,13 @@
+.click_me_class, .no_click_class {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click_me_class {
+    background-color: hwb(0 0% 100%);
+    color: #ffffff;
+}
+
+.no_click_class {
+    background-color: rgb(255, 255, 0);
+}
